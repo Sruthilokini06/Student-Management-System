@@ -10,6 +10,16 @@ This is a simple Java console-based Student Management System that allows users 
 - Update student details
 - Delete student records
 
+## 📸 Screenshots
+### ➤ Main Menu
+![Main Menu](images/menu.png)
+
+### ➤ Add Student
+![Add Student](images/add.png)
+
+### ➤ View Students
+![View Students](images/view.png)
+
 ## 🛠️ Tech Used
 - Java
 - ArrayList
