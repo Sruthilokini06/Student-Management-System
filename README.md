@@ -9,16 +9,22 @@ This is a simple Java console-based Student Management System that allows users 
 - Search student by roll number
 - Update student details
 - Delete student records
-
+  
 ## 📸 Screenshots
 ### ➤ Main Menu
-![Main Menu](images/menu.png)
+<p align="center">
+  <img src="images/menu.png" width="600"/>
+</p>
 
 ### ➤ Add Student
-![Add Student](images/add.png)
+<p align="center">
+  <img src="images/add.png" width="600"/>
+</p>
 
 ### ➤ View Students
-![View Students](images/view.png)
+<p align="center">
+  <img src="images/view.png" width="600"/>
+</p>
 
 ## 🛠️ Tech Used
 - Java
