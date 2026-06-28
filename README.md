@@ -1,44 +1,33 @@
 # 🎓 Student Management System (Java)
 
-A simple console-based Student Management System built using Core Java and OOP concepts.
-
----
+## 📌 Overview
+This is a simple Java console-based Student Management System that allows users to manage student records using CRUD operations.
 
 ## 🚀 Features
+- Add student details
+- View all students
+- Search student by roll number
+- Update student details
+- Delete student records
 
-- Add Student
-- View All Students
-- Search Student by Roll Number
-- Update Student Details
-- Delete Student
-- Prevent duplicate roll numbers
-- Automatic Grade calculation based on marks
-
----
-
-## 🧠 Concepts Used
-
-- Object-Oriented Programming (OOP)
-- Classes and Objects
-- Encapsulation
+## 🛠️ Tech Used
+- Java
 - ArrayList
-- Methods
-- Loops & Conditions
-- Menu-driven program
+- OOP Concepts
 
----
+## ▶️ How to Run
+1. Clone the repository
+2. Open in VS Code / IntelliJ
+3. Compile:
+   javac *.java
+4. Run:
+   java Main
 
-## 📊 Grade System
+## 📂 Project Structure
+- Main.java
+- Student.java
+- StudentManager.java
 
-| Marks Range | Grade |
-|------------|-------|
-| 90 - 100   | A+    |
-| 80 - 89    | A     |
-| 70 - 79    | B     |
-| 60 - 69    | C     |
-| 50 - 59    | D     |
-| Below 50   | F     |
+## 👩‍💻 Author
+Sruthi Lokini
 
----
-
-## 🗂 Project Structure
